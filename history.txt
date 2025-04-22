@@ -1,0 +1,235 @@
+search love on title show title 2023/04/22 17:16:20
+search love* on text show link 2023/04/22 17:57:44
+search love* on text show title 2023/04/22 17:57:55
+search love on title show title 2023/04/22 17:58:07
+search fuzzy loe  on title show title 2023/04/22 17:58:20
+search prefix love on title show title 2023/04/22 18:00:17
+search prefix love on title show title 2023/04/22 18:00:29
+search love* on text show link 2023/04/22 18:00:33
+search fuzzy love on title show artist 2023/04/22 18:00:44
+search love love on title show title 2023/04/22 18:03:49
+search *on on title show title 2023/04/22 18:04:38
+search o*n on title show title 2023/04/22 18:04:44
+search o***n on title show title 2023/04/22 18:04:48
+search o***n on title show title 2023/04/22 18:04:52
+search o*n on title show title 2023/04/22 18:04:54
+search o* on title show title 2023/04/22 18:04:57
+search o******** on title show title 2023/04/22 18:05:02
+search o******** on title show title 2023/04/22 18:05:04
+search o******** on title show title 2023/04/22 18:05:05
+search o**** on title show title 2023/04/22 18:05:08
+search **o on title show title 2023/04/22 18:05:14
+search c*o on title show title 2023/04/22 18:05:21
+search c*o on title %not% lo*ve on title show title 2023/04/22 18:05:34
+search c*o on title %not% lo*ve on title show title 2023/04/22 18:05:41
+search c*o on title %not% lo on title show title 2023/04/22 18:05:45
+search c*o on title %and% love on title show title 2023/04/22 18:05:52
+search hat on title %and% love on title show title 2023/04/22 18:05:59
+search hate on title %and% love on title show title 2023/04/22 18:06:03
+search hate on title %or% love on title show title 2023/04/22 18:06:10
+search h*te on title %or% love on title show title 2023/04/22 18:06:15
+search *te on title %or% love on title show title 2023/04/22 18:06:20
+search prefix on on title show artist 2023/04/22 18:06:46
+search prefix on on artist show artist 2023/04/22 18:06:51
+search love much on title show title 2023/04/22 18:07:09
+search love much on title show title 2023/04/22 18:07:33
+search lo*ve on title show title 2023/04/22 18:07:45
+search lc*t on title show title 2023/04/22 18:07:51
+search fuzzy ex on title show title 2023/04/22 18:08:04
+search fuzzy sex on title show title 2023/04/22 18:08:13
+search search on title show title 2023/04/22 18:09:37
+search search on title show title 2023/04/22 18:09:44
+search search on title show title 2023/04/22 18:09:58
+search search on title show title 2023/04/22 18:10:54
+search search on title show title 2023/04/22 18:11:19
+search on o on title show link 2023/04/22 18:11:36
+search ash on title show title 2023/04/22 18:11:49
+search spirit on title show title 2023/04/22 18:11:54
+search fuzzy cat; on title show title 2023/04/22 18:13:28
+search prefix cat\ on title show title 2023/04/22 18:13:39
+search  title* on title show title 2023/04/22 18:14:57
+search  ti*tle on title show title 2023/04/22 18:15:02
+search  ti*tle on title show title 2023/04/22 18:15:04
+search  tle on title show title 2023/04/22 18:15:08
+search  *tle on title show title 2023/04/22 18:15:13
+search fuzzy title on text show artist 2023/04/22 18:15:47
+search scy*l on title show title 2023/04/22 18:16:06
+search *l on title show title 2023/04/22 18:16:17
+search adele on artist show title 2023/04/22 18:16:27
+search title on title show title 2023/04/22 18:27:44
+search o love on title show title 2023/04/22 18:27:48
+search spirit on text show artist 2023/04/22 18:28:00
+search love on title show title 2023/04/22 18:29:17
+search love on title show title 2023/04/22 18:29:32
+search hate on title show title 2023/04/22 18:29:40
+search a* on artist show artist 2023/04/22 18:32:01
+search hat on title %and% on on text show artist 2023/04/23 00:31:44
+search l on title show title 2023/04/23 00:32:05
+search u on title show title 2023/04/23 00:32:08
+search u on title %and% a on title show title 2023/04/23 00:32:28
+search usa on title show title 2023/04/23 00:32:39
+search usa on title show title 2023/04/23 00:32:42
+search sex* on title show title 2023/04/23 00:32:50
+search prefix a on title show artist 2023/04/23 12:03:00
+search prefix a on title show artist 2023/04/23 12:03:09
+search prefix a on title show artist 2023/04/23 12:03:14
+search prefix a on title show artist 2023/04/23 12:03:23
+search love on title %not% l on text show link 2023/04/23 12:03:32
+search love on title %not% l on text show title 2023/04/23 12:03:37
+search love a on title show link 2023/04/23 12:03:48
+search love a on title show title 2023/04/23 12:03:54
+search love a on title show title 2023/04/23 12:03:59
+search fuzzy usa on title show artist 2023/04/23 12:04:44
+search love* on title show link 2023/04/23 12:04:54
+search fuzzy love on title show title 2023/04/23 12:06:52
+search love love on text show title 2023/04/23 12:07:04
+search co* on text show link 2023/04/23 12:07:24
+search prefix o on title show artist 2023/04/23 12:07:32
+search o* on title show title 2023/04/23 12:08:38
+search lo on text %and% o on title show artist 2023/04/23 12:11:37
+search prefix love on title show link 2023/04/23 12:11:44
+search prefix love on title show title 2023/04/23 12:11:52
+search prefix lo on title show title 2023/04/23 12:12:10
+search prefix lo on title show title 2023/04/23 12:12:13
+search on* on title show artist 2023/04/23 12:43:11
+search mid on text show title 2023/04/23 13:00:19
+search mid on text show artist 2023/04/23 13:00:25
+search play on title %and% you on title show title 2023/04/23 17:53:50
+search play on title %or% you on title show title 2023/04/23 17:58:26
+search play on title %or% you on title show title 2023/04/23 17:59:05
+search play on title %or% you on title show title 2023/04/23 18:05:23
+search love on text show title 2023/04/23 18:11:24
+search love on text show title 2023/04/23 18:11:25
+search love on text show artist 2023/04/23 18:15:58
+search love on title show artist 2023/04/23 18:16:19
+search love on title show artist 2023/04/23 18:21:20
+search love on title show artist 2023/04/23 18:21:33
+search you are on title show title 2023/04/23 18:23:49
+search prefix cat on title show title 2023/04/23 18:30:21
+search prefix cAt on title show title 2023/04/23 18:30:37
+search prefix cAt on title show title 2023/04/23 18:30:41
+search prefix cAt on title show title 2023/04/23 18:54:31
+search prefix cat on title show title 2023/04/23 19:02:46
+search prefix Cat on title show title 2023/04/23 19:08:40
+search prefix cAt on title show title 2023/04/23 19:08:54
+search love on title show title 2023/04/23 19:12:09
+search cat* on title show title 2023/04/23 19:13:35
+search prefix cat on title show title 2023/04/23 19:13:49
+search prefix cAt on title show title 2023/04/23 19:14:12
+search c*t on artist show artist 2023/04/23 19:17:47
+search prefix cat on title show title 2023/04/23 19:20:47
+search prefix cat on title show title 2023/04/23 19:23:15
+search love on text show title 2023/04/23 19:26:37
+search cat on text show title 2023/04/23 19:26:48
+search love on title show title 2023/04/23 19:31:22
+search prefix love on title show title 2023/04/23 19:33:03
+search love* on title show title 2023/04/23 19:34:07
+search prefix love on title show title 2023/04/23 19:35:21
+search prefix love on title show title 2023/04/23 19:36:30
+search *t on title show title  2023/04/23 19:38:04
+search t* on title show title  2023/04/23 19:38:27
+search c*t on title show title 2023/04/23 19:39:59
+search prefifx cat on title show link 2023/04/23 19:43:16
+search prefix cat on title show link 2023/04/23 19:43:21
+search prefix cat on title show title 2023/04/23 19:45:34
+search prefix cat on title show title 2023/04/23 19:49:23
+search fuzzy ct on title show title 2023/04/23 19:54:12
+search cat  on title show title 2023/04/23 19:57:04
+search cat  on title show title 2023/04/23 19:59:34
+search cat  on title show title 2023/04/23 20:01:09
+search love on title show title 2023/04/23 20:10:55
+search cat on title show title 2023/04/23 20:11:32
+search cat* on title show title 2023/04/23 20:12:08
+search cat* on title show title 2023/04/23 20:17:00
+search prefix cat on title show artist 2023/04/23 20:23:29
+search prefix a on artist show artist 2023/04/23 20:25:38
+search prefix cat on title show title 2023/04/23 20:26:51
+search a* on artist show artist 2023/04/23 20:27:14
+search prefix cat on title show title 2023/04/23 20:28:09
+search prefix cat on title show title 2023/04/23 20:31:17
+search prefix cat on title show title 2023/04/23 20:32:43
+search prefix cat on title show title 2023/04/23 20:33:41
+search love* on title show title 2023/04/23 20:36:48
+search love on title show title 2023/04/23 20:37:41
+search lo*ve on title show title 2023/04/23 20:37:52
+search love* on title show title 2023/04/23 20:38:44
+search cat* on title show title 2023/04/23 20:38:58
+search love* on title show link 2023/04/23 20:40:02
+search love on title show link 2023/04/23 20:40:06
+search prefix love on title show link 2023/04/23 20:40:11
+search lo*ve on title show title 2023/04/23 20:40:32
+search prefix cat on title show title 2023/04/23 20:57:55
+search cat on title show title 2023/04/23 21:10:51
+search a* on artist show artist 2023/04/23 21:18:25
+search lo* on text show title 2023/04/23 21:24:32
+search cat on title show title 2023/04/23 21:25:11
+search cat o on text show title 2023/04/23 21:25:53
+search cat o on text show title 2023/04/23 21:26:07
+search cat on title show title 2023/04/23 21:28:24
+search love on title show title 2023/04/23 21:29:06
+search a* on artist show artist 2023/04/23 21:30:17
+search cat* on title show title 2023/04/23 21:31:50
+search cat on title show title 2023/04/23 21:39:35
+search cat on title show title 2023/04/23 21:39:59
+search love* on title show link 2023/04/23 21:45:27
+search love* on title show title 2023/04/23 21:45:35
+search love on title show title 2023/04/23 21:45:41
+search love* on title show title 2023/04/23 21:45:46
+search cat on title show link 2023/04/25 23:46:23
+search cat on title show title 2023/04/25 23:46:34
+search prefix cAt on title show artist 2023/04/26 13:24:05
+search love on title show artist 2023/04/26 13:28:48
+search π* on text show link 2023/04/26 15:38:37
+search love on title show title 2023/04/26 15:41:03
+search love on text %or% a on title show artist 2023/04/26 15:41:15
+search love on text %or% a οn title show artist 2023/04/26 15:42:01
+search love on text %or% a οn title show artist 2023/04/26 15:42:05
+search love on text %or% a οn title show artist 2023/04/26 15:42:06
+search love on text %or% a οn title show artist 2023/04/26 15:42:08
+search love on text %or% a οn title shoοw artist 2023/04/26 15:42:14
+search prefix cat on text show link 2023/04/26 15:48:25
+search search on text %or% usa on title show link 2023/04/26 15:48:51
+search a* on title show title 2023/04/26 15:51:37
+search fοzzy on on title show link 2023/04/26 15:52:09
+search love* on title show artist 2023/04/26 15:57:37
+search love* on title show artist 2023/04/26 15:57:58
+search lo on text %and% a on title show title 2023/04/26 15:58:04
+search yo_u* on title show title 2023/04/26 16:01:17
+search love on text show link 2023/04/26 16:04:55
+search co* on text show title 2023/04/26 16:07:24
+search co* on title show title 2023/04/26 16:07:30
+search on* on text show artist 2023/04/26 16:18:05
+search cAt love on title show link 2023/04/26 16:20:51
+search prefix te on title show link 2023/04/26 16:36:08
+search prefix te on title show link 2023/04/26 16:36:09
+search cat on text %or% love on title show link 2023/04/26 16:36:19
+search a on text show title 2023/04/26 16:36:25
+search love on title %or% love on text show link 2023/04/26 16:36:42
+search fuzzy love on title show link 2023/04/26 16:36:46
+search o a on text show artist 2023/04/26 16:40:08
+search hate on title show title 2023/04/26 18:36:17
+search a* on text show artist 2023/04/26 18:36:27
+search a* on text show artist 2023/04/26 18:36:41
+search co on title %and% a on text show link 2023/04/26 18:40:51
+search love on title show title 2023/04/26 18:48:20
+search a love on text show link 2023/04/26 18:52:26
+search cat on title show artist 2023/04/26 18:57:21
+search prefix love on text show link 2023/04/26 19:03:12
+search love on text %or% o on title show artist 2023/04/26 19:04:04
+search yo_u love on text show link 2023/04/26 19:05:08
+search prefix you on text show artist 2023/04/26 19:06:44
+search sex on on title show artist 2023/04/26 19:07:06
+search 1980 on title show title 2023/04/26 19:26:06
+search 1* on title show title 2023/04/26 19:26:11
+search It's on title show title 2023/04/26 19:26:20
+search eye on title show artist 2023/04/26 19:32:39
+search fuzzy love on title show title 2023/04/26 19:33:03
+search fuzzy love on title show title 2023/04/26 19:33:15
+search a cat on text show artist 2023/04/26 19:37:23
+search a cat on text show artist 2023/04/26 19:37:34
+search prefix love on text show artist 2023/04/26 19:39:48
+search 3 on title show title 2023/04/26 19:42:48
+search 3* on title show title 2023/04/26 19:42:52
+search prefix 3 on title show title 2023/04/26 19:42:59
+search prefix 3 on title show title 2023/04/26 19:43:01
+search fuzzy 3 on title show title 2023/04/26 19:43:07
